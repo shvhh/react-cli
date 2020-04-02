@@ -1,5 +1,5 @@
 {
-  "name": "cli-tool",
+  "name": "react",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "cli-tool": "./index.js"
+    "react": "./index.js"
   },
   "keywords": [],
   "author": "",
